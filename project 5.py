@@ -1,5 +1,3 @@
-
-
 # Guess the number into 3 chances
 import math
 import random
@@ -28,9 +26,3 @@ while i<3:
     if i>=3:
         print("The number is",random_num) 
         print("Better Luck Next Time!")              
-
-
-
-
-
-
