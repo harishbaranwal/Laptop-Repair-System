@@ -23,6 +23,6 @@ while i<3:
     elif random_num<user_num:
         print("Your guess was too high")
         print("Have one more try")
-    if i>=3:
-        print("The number is",random_num) 
-        print("Better Luck Next Time!")              
+if i>=3:
+    print("The number is",random_num) 
+    print("Better Luck Next Time!")              
